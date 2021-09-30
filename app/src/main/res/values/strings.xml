@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="alreadyhaveaccount">Already have an account ? Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="fullname">Fullname</string>
+    <string name="donthaveaccount">Dont have an account? Sign up</string>
+    <string name="email">Email</string>
+    <string name="logout">LOGOUT</string>
+    <string name="forgotPass">Forgot password</string>
+    <string name="reset">RESET</string>
+    <string name="test">test</string>
+    <string name="resetPass">Reset Password</string>
+    <string name="create">Create</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="update">Update</string>
+    <string name="id">Id</string>
+    <string name="delete">DELETE</string>
+    <string-array name="colors">
+        <item>gray</item>
+        <item>green</item>
+        <item>red</item>
+    </string-array>
+</resources>
